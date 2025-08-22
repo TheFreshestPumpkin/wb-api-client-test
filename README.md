@@ -13,7 +13,7 @@
 - Консольная команда для импорта в бд: php artisan wb:fetch.
 
 ## БД
- - bd4free.net
+ - db4free.net
  - phpMyAdmin
  - пользователь: freshest_pumpkin
  - пароль: kirill23143
